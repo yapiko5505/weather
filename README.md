@@ -1,4 +1,5 @@
 # weather
+JavaScript、jQery、OpenWeatherMapを使用したアプリを制作しました。
 
 # デモ
  [webサイト](https://yasuko-weather.herokuapp.com)
