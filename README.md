@@ -2,7 +2,7 @@
 JavaScript、jQery、OpenWeatherMapを使用したアプリを制作しました。
 
 # デモ
- [https://yasuko-weather.herokuapp.com]
+ [webサイトを見る]https://yasuko-weather.herokuapp.com
 
 
 
