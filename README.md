@@ -9,6 +9,9 @@ JavaScript、jQery、OpenWeatherMapを使用したアプリを制作しました
  HTML\CSS, JavaScript, jQery
  現在時刻と天気予報が一度に分かるサイトを作りたいと考え、参考書を参考に制作しました。
  
+ ## 苦労した点
+ OpenWeatherMapの導入に苦労しました。
+ 
  ## インストール方法
  このままブラウザで開くと閲覧できます。
 
